@@ -1,17 +1,13 @@
 # AgroMonitor
 
-In 2010 only 35% of total agricultural in India was reliably Irrigated. India has spent Rs.16,590 crore on irrigation development between 1950-85, 
-and between 2000-10 India proposed to spend a sum of Rs.1,03,315 crores on irrigation. Hence we propose an optimal solution irrigation 
-and pest and disease detection where we can make well informed decision and improve quality of the Yield.
-
 ## Project Description
 
 * Part 1: Irrigation
 
 We will have a solenoid valve or another digitally controlled device at the mouth of the canal pipe/stream, 
 which will act as a local server for our each of our smaller client devices installed at various smaller regions 
-under the respective canal pipe/stream. We also have temperature and humidity sensor installed with each of our smaller 
-device at the field, which continually provide us real time sensor data. With this real time data we are able to calculate the water requirement via the formula :
+under the respective canal pipe/stream. We also have temperature and humidity sensors installed with each of our smaller 
+devices in the field, which continually provides us real-time sensor data. With this real time data we are able to calculate the water requirement via the formula :
 ```
 ETcrop = Kc x Eto
 ```
